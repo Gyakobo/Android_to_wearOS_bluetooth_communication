@@ -26,3 +26,5 @@ This example serves to show how to connect and effectively perpetuate a bluetoot
 ## Note:
 
 * For both devices you'll have to in order to instantiate end-to-end communication you'll need to know each devices MAC address "00:00:00:00:00:00"
+
+> Note: The following development will soon enough be deprecated in favour of Kotlin. Java just seems to grotesquely large and outdated.
