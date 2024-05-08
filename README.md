@@ -13,7 +13,7 @@ This example serves to show how to connect and effectively perpetuate a tight bl
 <uses-permission android:name="android.permission.BLUETOOTH_ADMIN"/>
 ```
 
-2. Remember to declare the service in the "AndroidManifest.xml" file for the WearOS device
+2. Remember to definitely declare the service in the "AndroidManifest.xml" file for the WearOS device
 
 ```XML
 <service android:name=".DataLayerListenerService">
