@@ -1,5 +1,7 @@
 # Android to WearOS bluetooth communication
 
+Author: [Andrew Gyakobo](https://github.com/Gyakobo)
+
 > This following example is inspired by the following publication(s): [website](https://developer.android.com/training/wearables/data/data-layer#cloud)
 
 This example serves to show how to connect and effectively perpetuate a tight bluetooth link between an Android device and a wearable WearOS device
