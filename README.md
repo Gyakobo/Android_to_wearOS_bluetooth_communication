@@ -1,5 +1,9 @@
 # Android to WearOS bluetooth communication
 
+![image](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![image](https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=for-the-badge&logo=OpenStreetMap&logoColor=white)
+![image](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+
 Author: [Andrew Gyakobo](https://github.com/Gyakobo)
 
 > This following example is inspired by the following publication(s): [website](https://developer.android.com/training/wearables/data/data-layer#cloud)
